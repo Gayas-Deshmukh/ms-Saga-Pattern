@@ -1,0 +1,6 @@
+com\weshopify\platform\command\PlaceOrderCommand.class
+com\weshopify\platform\event\PlaceOrderEvent.class
+com\weshopify\platform\command\ProductCommand.class
+com\weshopify\platform\event\ReservedProductEvent.class
+com\weshopify\platform\command\ReservedProductCommand.class
+com\weshopify\platform\event\ProductEvent.class

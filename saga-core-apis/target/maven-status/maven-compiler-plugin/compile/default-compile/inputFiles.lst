@@ -1,0 +1,8 @@
+D:\Spring Boot\microservices\Saga Pattern\saga-core-apis\src\main\java\com\weshopify\platform\event\ProductEvent.java
+D:\Spring Boot\microservices\Saga Pattern\saga-core-apis\src\main\java\com\weshopify\platform\command\ProductUpdatedCommand.java
+D:\Spring Boot\microservices\Saga Pattern\saga-core-apis\src\main\java\com\weshopify\platform\event\ReservedProductEvent.java
+D:\Spring Boot\microservices\Saga Pattern\saga-core-apis\src\main\java\com\weshopify\platform\command\ReservedProductCommand.java
+D:\Spring Boot\microservices\Saga Pattern\saga-core-apis\src\main\java\com\weshopify\platform\command\PlaceOrderCommand.java
+D:\Spring Boot\microservices\Saga Pattern\saga-core-apis\src\main\java\com\weshopify\platform\command\ProductCommand.java
+D:\Spring Boot\microservices\Saga Pattern\saga-core-apis\src\main\java\com\weshopify\platform\event\ProductUpdatedEvent.java
+D:\Spring Boot\microservices\Saga Pattern\saga-core-apis\src\main\java\com\weshopify\platform\event\PlaceOrderEvent.java
